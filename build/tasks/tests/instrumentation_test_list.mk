@@ -55,7 +55,6 @@ instrumentation_tests := \
     UsbTests \
     DownloadProviderTests \
     EmergencyInfoUnitTests \
-    CalendarProviderTests \
     SettingsLibTests \
     RSTest \
     PrintSpoolerOutOfProcessTests \
